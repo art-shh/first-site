@@ -613,8 +613,18 @@ display: block;
 	font-size: 25px;
 	margin: 50px 0 50px;
 	}
+	.header-nav-hidden {
+		height: 80vh;
+	}
 	.header-nav__icon {
 		font-size: 50px;
+	}
+	.header-nav-hidden__icon {
+		font-size: 30px;
+	}
+	.header-nav-hidden__item a {
+		font-size: 15px;
+		text-align: center;
 	}
 	.header__photo {
 	height: 65px;
